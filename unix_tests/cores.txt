@@ -1,4 +1,0 @@
-azul
-amarello = rosa 
-rosa e verde
-mais 4 argumentos
